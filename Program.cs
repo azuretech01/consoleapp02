@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Thids is new line");
+            Console.WriteLine("It's new code line via git to azure");
         }
     }
 }
